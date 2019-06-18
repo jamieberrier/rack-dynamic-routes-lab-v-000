@@ -4,5 +4,4 @@ class Application
     req = Rack::Request.new(env)
     resp.finish
   end
-  
 end
